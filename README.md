@@ -13,5 +13,5 @@
 
 **Legenda**
 
-- ⛂ Peça preta
+- ⛂ Diogo
 - ⛀ Peça branca
