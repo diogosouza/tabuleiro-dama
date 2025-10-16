@@ -14,9 +14,7 @@
 **Legenda**
 
 <<<<<<< HEAD
-- ⛂ Peça branca
 - ⛀ Joadson Reis
 =======
 - ⛂ Diogo
-- ⛀ Peça branca
 >>>>>>> 3381a9d2bf982f198d80a952169f7aa045f65d5f
