@@ -15,6 +15,6 @@
 
 <<<<<<< HEAD
 - ⛀ Joadson Reis
-=======
+
 - ⛂ Diogo
 >>>>>>> 3381a9d2bf982f198d80a952169f7aa045f65d5f
